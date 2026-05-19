@@ -1,4 +1,4 @@
-Counter-Limitation License (CLL) v1.1
+Counter-Limitation License (CLL) v1.2
 Copyright (c) 2026 anti.ltd
 
 Canonical Version
@@ -12,6 +12,31 @@ at:
 If you are reading a bundled copy, consult the repository above for the
 current text. Prior versions remain valid for distributions made under
 them — see "Reservation of Rights".
+
+Project-Specific Addenda
+
+A distributed copy of this license may include one or more clearly
+labelled addenda — for example, an "Excluded Entity Restriction
+Addendum" — appearing below the standard license text under a heading
+that identifies them as an addendum.
+
+Such addenda are deliberate, project-specific terms added by the
+copyright holder for that particular distribution. They are a binding,
+enforceable part of the license as applied to that distribution, even
+though they do not appear in the canonical version maintained at the
+repository above. Their absence from the canonical version is expected
+and does not weaken them.
+
+The canonical version is the source of truth for the standard license
+text only. It does not override, remove, supersede, or invalidate any
+addendum present in a distributed copy.
+
+An addendum may only add restrictions or withhold permissions — for
+example, excluding a named entity from all rights under this license. An
+addendum may not grant rights beyond those in the standard license text
+unless explicitly signed in writing by the copyright holder. Where an
+addendum conflicts with the standard license text, the addendum controls
+for that distribution.
 
 Preamble
 
