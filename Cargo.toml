@@ -1,0 +1,10 @@
+[package]
+name = "opentween"
+version = "0.1.0"
+edition = "2021"
+description = "Driver-agnostic tweening / animation engine. The caller owns the engine and drives it — no threads, no global state."
+license = "MIT"
+repository = "https://github.com/counter-ltd/opentween-rust"
+
+[lib]
+crate-type = ["lib"]
